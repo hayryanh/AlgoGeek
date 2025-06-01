@@ -1,6 +1,6 @@
-package com.algomonster.test.search;
+package com.algogeek.test;
 
-import com.algomonster.pointers.SlidingWindow;
+import com.algogeek.pointers.SlidingWindow;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

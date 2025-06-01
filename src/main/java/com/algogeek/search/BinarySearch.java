@@ -1,4 +1,4 @@
-package com.algomonster.search;
+package com.algogeek.search;
 
 import java.util.Collections;
 import java.util.List;

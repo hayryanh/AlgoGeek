@@ -1,6 +1,6 @@
-package com.algomonster.test.search;
+package com.algogeek.test;
 
-import com.algomonster.search.BinarySearch;
+import com.algogeek.search.BinarySearch;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

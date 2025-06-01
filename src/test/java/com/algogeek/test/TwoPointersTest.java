@@ -1,6 +1,6 @@
-package com.algomonster.test.search;
+package com.algogeek.test;
 
-import com.algomonster.pointers.TwoPointers;
+import com.algogeek.pointers.TwoPointers;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

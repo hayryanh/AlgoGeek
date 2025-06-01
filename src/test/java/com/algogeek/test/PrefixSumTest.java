@@ -1,6 +1,6 @@
-package com.algomonster.test.search;
+package com.algogeek.test;
 
-import com.algomonster.pointers.PrefixSum;
+import com.algogeek.pointers.PrefixSum;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

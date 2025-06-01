@@ -1,4 +1,4 @@
-package com.algomonster.pointers;
+package com.algogeek.pointers;
 
 import java.util.ArrayList;
 import java.util.HashMap;

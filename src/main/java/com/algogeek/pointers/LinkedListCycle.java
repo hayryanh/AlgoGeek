@@ -1,4 +1,4 @@
-package com.algomonster.pointers;
+package com.algogeek.pointers;
 
 public final class LinkedListCycle {
 

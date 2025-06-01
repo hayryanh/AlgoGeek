@@ -1,6 +1,6 @@
-package com.algomonster.test.search;
+package com.algogeek.test;
 
-import com.algomonster.pointers.LinkedListCycle;
+import com.algogeek.pointers.LinkedListCycle;
 import org.junit.jupiter.api.Test;
 
 public class LinkedListCycleTest {
